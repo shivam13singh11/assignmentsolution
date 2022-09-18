@@ -1,4 +1,4 @@
-# codingchallenge
+# Traversal Of Array Solution
 
 ## Method 1 : Iterating Clockwise
 
